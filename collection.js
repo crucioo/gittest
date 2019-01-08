@@ -6,3 +6,5 @@ function c(c) {
 }
 c(2); //运行结果?
 
+Answer: c is not a function
+
