@@ -8,3 +8,9 @@ c(2); //运行结果?
 
 Answer: c is not a function
 
+
+//数组排序
+[7,4,3,2,1,-5,22].sort(function(a,b) {
+	return a-b;
+})
+
